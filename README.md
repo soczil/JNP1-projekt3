@@ -1,3 +1,5 @@
+Trzecie zadanie zaliczeniowe z JNP1.
+
 Rozważamy ciąg Fibonacciego:
 
 F(0) = 0
